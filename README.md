@@ -9,8 +9,28 @@ Actividad 4 trabajando con listas, tuplas, conjunto y diccionarios
 
 ## Las tuplas
 
+- Codigo
 - ![image](https://github.com/user-attachments/assets/d5d0d7f3-87a4-4b2c-a92d-6cd54ae78da1)
 
-- Codigo
+- Resultado
 - ![image](https://github.com/user-attachments/assets/212cd657-a2c9-45c5-a154-a190f176e0b7)
+
+## Los conjuntos
+
+- Codigo
+- ![image](https://github.com/user-attachments/assets/31bbb52c-0a0e-4caf-9e07-7246c43897d3)
+
+- Resultado
+- ![image](https://github.com/user-attachments/assets/e22a1d2d-296d-45fa-b4a9-0a505815e484)
+
+## Los diccionarios
+
+- Codigo
+- ![image](https://github.com/user-attachments/assets/07e72ff7-9a89-4e16-b6d7-74a4aeaeba55)
+
+
+- Resultado
+- ![image](https://github.com/user-attachments/assets/6fd65227-bb07-4c91-9b58-8ae32978160a)
+
+
 
