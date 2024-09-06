@@ -21,7 +21,8 @@ Actividad 4 trabajando con listas, tuplas, conjunto y diccionarios
 - ![image](https://github.com/user-attachments/assets/31bbb52c-0a0e-4caf-9e07-7246c43897d3)
 
 - Resultado
-- ![image](https://github.com/user-attachments/assets/e22a1d2d-296d-45fa-b4a9-0a505815e484)
+- ![image](https://github.com/user-attachments/assets/0968e1d1-3f05-445e-a802-dbbb4f587049)
+
 
 ## Los diccionarios
 
@@ -30,7 +31,9 @@ Actividad 4 trabajando con listas, tuplas, conjunto y diccionarios
 
 
 - Resultado
-- ![image](https://github.com/user-attachments/assets/6fd65227-bb07-4c91-9b58-8ae32978160a)
+- ![image](https://github.com/user-attachments/assets/b8d98a44-b83c-44c4-b525-030261796f7f)
+
+
 
 
 
